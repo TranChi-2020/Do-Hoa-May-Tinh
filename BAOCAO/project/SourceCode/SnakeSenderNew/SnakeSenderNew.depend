@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1513260664 source:c:\users\mubabomb\documents\2.coding\cpp\cb\snakesendernew\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<fstream>
+	<cmath>
+	<winsock2.h>
+	<string>
+	<sstream>
+	"looks.h"
+	"functions.h"
+	"netcraps.h"
+	"strfuncs.h"
+	"screen.h"
+	"game.h"
+	<shellapi.h>
+
+1513260664 c:\users\mubabomb\documents\2.coding\cpp\cb\snakesendernew\looks.h
+	<iostream>
+	"windows.h"
+	"conio.h"
+
+1524852306 c:\users\mubabomb\documents\2.coding\cpp\cb\snakesendernew\functions.h
+
+1524852033 c:\users\mubabomb\documents\2.coding\cpp\cb\snakesendernew\screen.h
+
+1513280992 c:\users\mubabomb\documents\2.coding\cpp\cb\snakesendernew\game.h
+	"functions.h"
+	"screen.h"
+
+1513251536 c:\users\mubabomb\documents\2.coding\cpp\cb\snakesendernew\strfuncs.h
+
+1513041848 c:\users\mubabomb\documents\2.coding\cpp\cb\snakesendernew\netcraps.h
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1513281063 source:c:\users\mubabomb\documents\2.coding\cpp\cb\snakereceivenew\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<vector>
+	<fstream>
+	<cmath>
+	<winsock2.h>
+	<string>
+	<sstream>
+	"looks.h"
+	"netcraps.h"
+	"strfuncs.h"
+	"functions.h"
+
+1513260700 c:\users\mubabomb\documents\2.coding\cpp\cb\snakereceivenew\looks.h
+	<iostream>
+	"windows.h"
+	"conio.h"
+
+1513253506 c:\users\mubabomb\documents\2.coding\cpp\cb\snakereceivenew\netcraps.h
+
+1513253429 c:\users\mubabomb\documents\2.coding\cpp\cb\snakereceivenew\strfuncs.h
+
+1524851222 c:\users\mubabomb\documents\2.coding\cpp\cb\snakereceivenew\functions.h
+
